@@ -3,3 +3,16 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+//here starts dev-2 code
+public class MyMethods {
+    // A method that prints a message
+    static void greetUser(String name) {
+        System.out.println("Hello, " + name + "!");
+    }
+
+    public static void main(String[] args) {
+        greetUser("Alice"); // Calling the method
+        greetUser("Bob");
+    }
+}
