@@ -16,3 +16,8 @@ public class MyMethods {
         greetUser("Bob");
     }
 }
+
+//dev1 writing code without pulling the code
+//here starts the code
+//again we are checking
+
