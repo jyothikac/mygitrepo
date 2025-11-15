@@ -19,7 +19,5 @@ public class MyMethods {
 
 //dev1 writing code without pulling the code
 //here starts the code
-//again we are checking
 
-//changing comments to check poll scm
 
